@@ -3,5 +3,5 @@
 > Запуск готорвого контейнера из репозитория docker hub\
 Пример:\
 > docker run -td --name my-nginx -p 80:80 vedoff/nginx:v1.9\
-### Исходник пакета
-[nginx rpm](http://rpm.vedoff.online/repo/)
+### Ссылка на репозитория пакета
+[репозиторий](http://rpm.vedoff.online/repo/)
